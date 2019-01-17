@@ -6,8 +6,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
 
+  text-align: center;
+  color: white;
+  background-image: url("./img/city_vector.jpg");
+}
+.btn-color {
+  color: white;
+  border: 1px solid white;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
